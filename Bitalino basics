@@ -1,0 +1,41 @@
+# Bitalino Setup
+Install the OpenSignals app on comp
+
+## About the kit:
+
+When the LED is blinking slowly= standby mode
+When the LED is flashing= collecting data
+
+On the back of board each output is labeled A1, A2 etc this is what you tell your comp to connect to, to get the data from the corresponding platform
+
+Cord with three cords
+If not placed correctly it will output incorrect data
+The middle cord (white) goes at the top of the triangle {I} (ground)
+Red cord {J} goes on the left of the triangle (positive)
+Black cord {K} goes on the right of the triangle (negative)
+https://youtu.be/l5TGZbs8Iqs
+
+ Testing heart rate with the electro pads placed on chest, the signals are affected by movement, the more movement of the person such as jumping the more data is affected.
+Also bumping it causes fluctuations in the data recorded
+
+AVAILABLE on bitalino
+
+EMG (A1)
+Muscle activity
+http://makezine.com/projects/use-bitalino-graph-biosignals-play-pong/
+
+ECG (A2)
+collects heart rate data
+
+EDA (A3)
+Skin conductance
+
+EEG (A4)
+brain waves
+
+ACC (A5)
+Accelerometer
+
+LUX
+Illuminance 
+Ambient light from surrounding environment
